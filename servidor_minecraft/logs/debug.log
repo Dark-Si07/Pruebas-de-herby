@@ -801,3 +801,19 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Mar2025 18:32:18.728] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
 [07Mar2025 18:32:18.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
 [07Mar2025 18:32:18.732] [RCON Client /127.0.0.1 #76/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:34:52.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 18:34:52.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 18:35:37.252] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:35:37.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
+[07Mar2025 18:35:37.256] [RCON Client /127.0.0.1 #77/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:39:52.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 18:39:52.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 18:40:32.639] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:40:32.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
+[07Mar2025 18:40:32.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] 💥 el_weon_de_darlingxy_emon ha spawneado una TNT desde Twitch! 💥
+[07Mar2025 18:40:32.652] [RCON Client /127.0.0.1 #78/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:42:35.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07] \u00A74 pene
+[07Mar2025 18:43:33.328] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:43:33.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
+[07Mar2025 18:43:33.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] 💥 el_weon_de_darling_emon ha spawneado una TNT desde Twitch! 💥
+[07Mar2025 18:43:33.336] [RCON Client /127.0.0.1 #79/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
