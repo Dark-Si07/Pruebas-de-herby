@@ -1,0 +1,215 @@
+[07Mar2025 18:04:22.497] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.3.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[07Mar2025 18:04:22.501] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.14 by Ubuntu
+[07Mar2025 18:04:22.604] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Pruebas-de-herby/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[07Mar2025 18:04:22.876] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Pruebas-de-herby/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.3.0/fmlcore-1.18.2-40.3.0.jar is missing mods.toml file
+[07Mar2025 18:04:22.880] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Pruebas-de-herby/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.3.0/javafmllanguage-1.18.2-40.3.0.jar is missing mods.toml file
+[07Mar2025 18:04:22.882] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Pruebas-de-herby/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.3.0/lowcodelanguage-1.18.2-40.3.0.jar is missing mods.toml file
+[07Mar2025 18:04:22.885] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Pruebas-de-herby/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.3.0/mclanguage-1.18.2-40.3.0.jar is missing mods.toml file
+[07Mar2025 18:04:23.003] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[07Mar2025 18:04:24.367] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[07Mar2025 18:04:30.932] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.3.0, for MC 1.18.2 with MCP 20220404.173914
+[07Mar2025 18:04:30.939] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.3.0 Initialized
+[07Mar2025 18:04:32.425] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[07Mar2025 18:04:33.111] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 40.3.0 Target: null
+[07Mar2025 18:04:34.316] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07Mar2025 18:04:35.431] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Pruebas-de-herby/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2341!/assets/.mcassetsroot' uses unexpected schema
+[07Mar2025 18:04:35.431] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Pruebas-de-herby/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2341!/data/.mcassetsroot' uses unexpected schema
+[07Mar2025 18:04:38.255] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07Mar2025 18:04:38.256] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07Mar2025 18:04:38.262] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07Mar2025 18:04:38.264] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07Mar2025 18:04:38.265] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07Mar2025 18:04:40.446] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[07Mar2025 18:04:42.139] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1141 advancements
+[07Mar2025 18:04:43.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[07Mar2025 18:04:43.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[07Mar2025 18:04:43.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[07Mar2025 18:04:43.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[07Mar2025 18:04:43.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[07Mar2025 18:04:43.569] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[07Mar2025 18:04:43.707] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07Mar2025 18:04:43.708] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[07Mar2025 18:04:43.708] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07Mar2025 18:04:43.714] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[07Mar2025 18:04:43.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[07Mar2025 18:04:44.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[07Mar2025 18:04:45.900] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Mar2025 18:04:45.931] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Mar2025 18:04:45.937] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Mar2025 18:04:45.956] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Mar2025 18:04:46.064] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Mar2025 18:04:46.561] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Mar2025 18:04:47.059] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Mar2025 18:04:47.563] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Mar2025 18:04:48.060] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Mar2025 18:04:48.557] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[07Mar2025 18:04:49.058] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[07Mar2025 18:04:49.559] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[07Mar2025 18:04:50.058] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
+[07Mar2025 18:04:50.559] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
+[07Mar2025 18:04:51.064] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
+[07Mar2025 18:04:51.829] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
+[07Mar2025 18:04:52.289] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8232 ms
+[07Mar2025 18:04:52.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.565s)! For help, type "help"
+[07Mar2025 18:04:52.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting remote control listener
+[07Mar2025 18:04:52.306] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Listener started
+[07Mar2025 18:04:52.307] [Server thread/INFO] [net.minecraft.server.rcon.thread.RconThread/]: RCON running on 0.0.0.0:25575
+[07Mar2025 18:04:52.334] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[07Mar2025 18:05:17.984] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@23b58da8
+[07Mar2025 18:05:18.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarlingXY07[/127.117.184.163:50717] logged in with entity id 215 at (-8.889946255777248, 81.0, -1.2055971757288104)
+[07Mar2025 18:05:18.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarlingXY07 joined the game
+[07Mar2025 18:05:45.196] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:05:45.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:05:45.205] [RCON Client /127.0.0.1 #2/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:05:53.177] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:05:53.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:05:53.182] [RCON Client /127.0.0.1 #3/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:05:59.861] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:05:59.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:05:59.866] [RCON Client /127.0.0.1 #4/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:06:18.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarlingXY07 has made the advancement [Stone Age]
+[07Mar2025 18:06:32.742] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:06:32.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:06:32.747] [RCON Client /127.0.0.1 #5/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:08:37.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Set own game mode to Creative Mode]
+[07Mar2025 18:10:08.891] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:08.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:08.898] [RCON Client /127.0.0.1 #6/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:09.056] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:09.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:09.061] [RCON Client /127.0.0.1 #7/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:09.205] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:09.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:09.210] [RCON Client /127.0.0.1 #8/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:09.370] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:09.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:09.374] [RCON Client /127.0.0.1 #9/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:09.510] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:09.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:09.514] [RCON Client /127.0.0.1 #10/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:09.663] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:09.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:09.670] [RCON Client /127.0.0.1 #11/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:09.820] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:09.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:09.824] [RCON Client /127.0.0.1 #12/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:09.963] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:09.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:09.967] [RCON Client /127.0.0.1 #13/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:10.102] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:10.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:10.107] [RCON Client /127.0.0.1 #14/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:18.425] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:18.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:18.430] [RCON Client /127.0.0.1 #15/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:18.612] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:18.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:18.616] [RCON Client /127.0.0.1 #16/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:18.736] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:18.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:18.741] [RCON Client /127.0.0.1 #17/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:18.874] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:18.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:18.878] [RCON Client /127.0.0.1 #18/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:19.045] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:19.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:19.049] [RCON Client /127.0.0.1 #19/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:19.214] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:19.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:19.219] [RCON Client /127.0.0.1 #20/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:19.338] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:19.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:19.342] [RCON Client /127.0.0.1 #21/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:19.497] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:19.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:19.502] [RCON Client /127.0.0.1 #22/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:19.668] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:19.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:19.672] [RCON Client /127.0.0.1 #23/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:19.810] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:19.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:19.815] [RCON Client /127.0.0.1 #24/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:20.002] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:20.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:20.007] [RCON Client /127.0.0.1 #25/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:22.526] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:22.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:22.531] [RCON Client /127.0.0.1 #26/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:24.700] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:24.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:24.704] [RCON Client /127.0.0.1 #27/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:26.971] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:26.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:26.975] [RCON Client /127.0.0.1 #28/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:28.434] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:28.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:28.438] [RCON Client /127.0.0.1 #29/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:29.387] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:29.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:29.391] [RCON Client /127.0.0.1 #30/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:29.940] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:29.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:29.950] [RCON Client /127.0.0.1 #31/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:30.528] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:30.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:30.533] [RCON Client /127.0.0.1 #32/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:31.045] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:31.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:31.050] [RCON Client /127.0.0.1 #33/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:31.306] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:31.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:31.311] [RCON Client /127.0.0.1 #34/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:31.489] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:31.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:31.497] [RCON Client /127.0.0.1 #35/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:31.662] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:31.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:31.666] [RCON Client /127.0.0.1 #36/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:31.828] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:31.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:31.832] [RCON Client /127.0.0.1 #37/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:32.143] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:32.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:32.148] [RCON Client /127.0.0.1 #38/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:32.338] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:32.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:32.346] [RCON Client /127.0.0.1 #39/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:32.527] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:32.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:32.532] [RCON Client /127.0.0.1 #40/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:32.718] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:32.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:32.723] [RCON Client /127.0.0.1 #41/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:32.896] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:32.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:32.900] [RCON Client /127.0.0.1 #42/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:33.065] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:33.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:33.070] [RCON Client /127.0.0.1 #43/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:33.242] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:33.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:33.247] [RCON Client /127.0.0.1 #44/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:33.427] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:33.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:33.432] [RCON Client /127.0.0.1 #45/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:33.588] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:33.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:33.592] [RCON Client /127.0.0.1 #46/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:33.787] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:33.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:33.791] [RCON Client /127.0.0.1 #47/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:34.179] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:34.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:34.184] [RCON Client /127.0.0.1 #48/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:34.335] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:34.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:34.339] [RCON Client /127.0.0.1 #49/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:34.640] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:34.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:34.647] [RCON Client /127.0.0.1 #50/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:34.828] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:34.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:34.832] [RCON Client /127.0.0.1 #51/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:10:35.007] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:10:35.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Summoned new Primed TNT]
+[07Mar2025 18:10:35.012] [RCON Client /127.0.0.1 #52/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
