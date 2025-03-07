@@ -817,3 +817,52 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [07Mar2025 18:43:33.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
 [07Mar2025 18:43:33.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] 💥 el_weon_de_darling_emon ha spawneado una TNT desde Twitch! 💥
 [07Mar2025 18:43:33.336] [RCON Client /127.0.0.1 #79/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:44:52.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 18:44:52.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 18:46:32.201] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:46:32.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
+[07Mar2025 18:46:32.205] [RCON Client /127.0.0.1 #80/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:47:30.286] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:47:30.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
+[07Mar2025 18:47:30.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] el_weon_de_darlingxy_emon ha spawneado una TNT desde Twitch!
+[07Mar2025 18:47:30.296] [RCON Client /127.0.0.1 #81/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:47:35.943] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:47:35.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
+[07Mar2025 18:47:35.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] el_weon_de_darlingxy_emon ha spawneado una TNT desde Twitch!
+[07Mar2025 18:47:35.952] [RCON Client /127.0.0.1 #82/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:48:38.476] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:48:38.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
+[07Mar2025 18:48:38.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] el_weon_de_darlingxy_emon ha spawneado una TNT desde Twitch!
+[07Mar2025 18:48:38.484] [RCON Client /127.0.0.1 #83/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:49:52.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 18:49:52.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 18:53:15.142] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:53:15.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Cat]
+[07Mar2025 18:53:15.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] el_weon_de_darlingxy_emon ha spawneado un gato desde Twitch!
+[07Mar2025 18:53:15.150] [RCON Client /127.0.0.1 #84/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:53:20.464] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:53:20.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Cat]
+[07Mar2025 18:53:20.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] el_weon_de_darlingxy_emon ha spawneado un gato desde Twitch!
+[07Mar2025 18:53:20.472] [RCON Client /127.0.0.1 #85/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:53:28.039] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:53:28.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Cat]
+[07Mar2025 18:53:28.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] el_weon_de_darlingxy_emon ha spawneado un gato desde Twitch!
+[07Mar2025 18:53:28.051] [RCON Client /127.0.0.1 #86/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:53:29.030] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:53:29.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Cat]
+[07Mar2025 18:53:29.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] el_weon_de_darlingxy_emon ha spawneado un gato desde Twitch!
+[07Mar2025 18:53:29.038] [RCON Client /127.0.0.1 #87/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:53:29.293] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:53:29.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Cat]
+[07Mar2025 18:53:29.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] el_weon_de_darlingxy_emon ha spawneado un gato desde Twitch!
+[07Mar2025 18:53:29.301] [RCON Client /127.0.0.1 #88/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:53:29.529] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:53:29.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Cat]
+[07Mar2025 18:53:29.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] el_weon_de_darlingxy_emon ha spawneado un gato desde Twitch!
+[07Mar2025 18:53:29.537] [RCON Client /127.0.0.1 #89/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:53:45.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Killed 6 entities]
+[07Mar2025 18:53:53.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Killed 13 entities]
+[07Mar2025 18:54:50.530] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:54:50.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Cat]
+[07Mar2025 18:54:50.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] el_weon_de_darlingxy_emon ha spawneado un gato desde Twitch!
+[07Mar2025 18:54:50.538] [RCON Client /127.0.0.1 #90/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
