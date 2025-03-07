@@ -279,3 +279,22 @@
 [07Mar2025 18:24:01.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
 [07Mar2025 18:24:25.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
 [07Mar2025 18:24:36.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
+[07Mar2025 18:26:45.477] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:26:45.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
+[07Mar2025 18:26:45.482] [RCON Client /127.0.0.1 #71/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:26:54.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
+[07Mar2025 18:27:11.150] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:27:11.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
+[07Mar2025 18:27:11.155] [RCON Client /127.0.0.1 #72/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:27:25.936] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:27:25.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
+[07Mar2025 18:27:25.940] [RCON Client /127.0.0.1 #73/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:27:28.193] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:27:28.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
+[07Mar2025 18:27:28.199] [RCON Client /127.0.0.1 #74/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:27:52.733] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:27:52.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
+[07Mar2025 18:27:52.737] [RCON Client /127.0.0.1 #75/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[07Mar2025 18:32:18.728] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[07Mar2025 18:32:18.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
+[07Mar2025 18:32:18.732] [RCON Client /127.0.0.1 #76/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
