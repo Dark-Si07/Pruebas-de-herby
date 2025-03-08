@@ -1,0 +1,14 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	name: "DarlingXY07"
+	last_seen: { dim: "minecraft:overworld", x: 3, y: 103, z: 4, time: 1741392708059L, xRot: 16.34988f, yRot: -55.66284f }
+	recording: 0
+	teleport_history: [
+		{ dim: "minecraft:overworld", x: -9, y: 103, z: 2, time: 1741387160785L, xRot: 19.200005f, yRot: 38.25048f }
+		{ dim: "minecraft:overworld", x: -1, y: 100, z: 5, time: 1741388134385L, xRot: 41.70002f, yRot: 70.64992f }
+	]
+	homes: { }
+}

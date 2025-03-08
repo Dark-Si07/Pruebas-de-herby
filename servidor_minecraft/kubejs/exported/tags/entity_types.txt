@@ -1,0 +1,129 @@
+To refresh this file, delete it and run /reload command again! Last updated: Mar 7, 2025, 10:15:20 PM
+
+#minecraft:axolotl_always_hostiles
+- minecraft:drowned
+- minecraft:guardian
+- minecraft:elder_guardian
+
+#minecraft:freeze_immune_entity_types
+- minecraft:stray
+- minecraft:polar_bear
+- minecraft:snow_golem
+- minecraft:wither
+- cataclysm:ender_golem
+- cataclysm:ender_guardian
+- cataclysm:ignis
+- cataclysm:netherite_monstrosity
+- mowziesmobs:frostmaw
+- mutantmonsters:mutant_snow_golem
+
+#minecraft:impact_projectiles
+- #minecraft:arrows
+- minecraft:snowball
+- minecraft:fireball
+- minecraft:small_fireball
+- minecraft:egg
+- minecraft:trident
+- minecraft:dragon_fireball
+- minecraft:wither_skull
+- cataclysm:void_shard
+- cataclysm:lava_bomb
+- cataclysm:ignis_abyss_fireball
+- cataclysm:ignis_fireball
+- mutantmonsters:throwable_block
+
+#minecraft:beehive_inhabitors
+- minecraft:bee
+
+#minecraft:skeletons
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:wither_skeleton
+- mutantmonsters:mutant_skeleton
+
+#artifacts:creepers
+- minecraft:creeper
+- creeperoverhaul:jungle_creeper?
+- creeperoverhaul:bamboo_creeper?
+- creeperoverhaul:desert_creeper?
+- creeperoverhaul:badlands_creeper?
+- creeperoverhaul:hills_creeper?
+- creeperoverhaul:savannah_creeper?
+- creeperoverhaul:mushroom_creeper?
+- creeperoverhaul:swamp_creeper?
+- creeperoverhaul:dripstone_creeper?
+- creeperoverhaul:cave_creeper?
+- creeperoverhaul:dark_oak_creeper?
+- creeperoverhaul:spruce_creeper?
+- creeperoverhaul:beach_creeper?
+- creeperoverhaul:snowy_creeper?
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:spectral_arrow
+
+#minecraft:freeze_hurts_extra_types
+- minecraft:strider
+- minecraft:blaze
+- minecraft:magma_cube
+
+#mowziesmobs:umvuthana
+- mowziesmobs:umvuthi
+- mowziesmobs:umvuthana
+- mowziesmobs:umvuthana_follower_raptor
+- mowziesmobs:umvuthana_follower_player
+- mowziesmobs:umvuthana_crane_player
+- mowziesmobs:umvuthana_raptor
+- mowziesmobs:umvuthana_crane
+
+#cataclysm:trap_block_not_detected
+- cataclysm:ender_golem
+- cataclysm:ender_guardian
+- minecraft:ender_dragon
+- minecraft:enderman
+- minecraft:endermite
+- cataclysm:endermaptera
+
+#forge:bosses
+- minecraft:ender_dragon
+- minecraft:wither
+
+#minecraft:raiders
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+- minecraft:illusioner
+- minecraft:witch
+- cataclysm:nameless_sorcerer
+
+#minecraft:powder_snow_walkable_mobs
+- minecraft:rabbit
+- minecraft:endermite
+- minecraft:silverfish
+- minecraft:fox
+- mowziesmobs:frostmaw
+
+#industrialforegoing:mob_imprisonment_tool_blacklist
+- artifacts:mimic
+
+#cataclysm:ignis_cant_poke
+- minecraft:slime
+- minecraft:magma_cube
+- minecraft:ender_dragon
+- minecraft:wither
+
+#minecraft:axolotl_hunt_targets
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:salmon
+- minecraft:cod
+- minecraft:squid
+- minecraft:glow_squid
+
+#mowziesmobs:umvuthana_umvuthi_aligned
+- mowziesmobs:umvuthi
+- mowziesmobs:umvuthana_crane
+- mowziesmobs:umvuthana_follower_raptor
+- mowziesmobs:umvuthana_raptor
+- mowziesmobs:umvuthana
