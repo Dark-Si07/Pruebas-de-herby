@@ -7712,3 +7712,23 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [08Mar2025 00:47:01.930] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main41
 [08Mar2025 00:48:37.080] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
 [08Mar2025 00:48:37.081] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[08Mar2025 00:51:41.464] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[08Mar2025 00:51:41.465] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[08Mar2025 00:51:41.466] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[08Mar2025 00:51:41.474] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[08Mar2025 00:51:41.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 00:51:41.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 00:53:09.684] [Worker-Main41/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main41 shutdown
+[08Mar2025 00:53:22.831] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main48
+[08Mar2025 00:53:58.481] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[08Mar2025 00:53:58.482] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[08Mar2025 00:56:41.453] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[08Mar2025 00:56:41.453] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[08Mar2025 00:56:41.453] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[08Mar2025 00:56:41.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 00:56:41.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 00:58:59.480] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[08Mar2025 00:58:59.480] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[08Mar2025 00:59:37.632] [Worker-Main48/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main48 shutdown
+[08Mar2025 00:59:39.086] [IO-Worker-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[08Mar2025 00:59:47.930] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main57
