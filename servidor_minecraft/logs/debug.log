@@ -7679,3 +7679,20 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [08Mar2025 00:31:05.477] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
 [08Mar2025 00:31:05.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
 [08Mar2025 00:31:05.490] [RCON Client /127.0.0.1 #26/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[08Mar2025 00:31:41.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 00:31:41.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 00:32:35.703] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[08Mar2025 00:32:35.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
+[08Mar2025 00:32:35.712] [RCON Client /127.0.0.1 #27/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[08Mar2025 00:33:00.481] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[08Mar2025 00:33:00.483] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[08Mar2025 00:35:36.884] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[08Mar2025 00:36:16.357] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[08Mar2025 00:36:41.457] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[08Mar2025 00:36:41.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 00:36:41.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 00:38:00.881] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[08Mar2025 00:38:00.881] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[08Mar2025 00:38:00.886] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[08Mar2025 00:41:08.281] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[08Mar2025 00:41:08.289] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
