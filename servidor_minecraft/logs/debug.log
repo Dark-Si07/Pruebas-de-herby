@@ -7696,3 +7696,19 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [08Mar2025 00:38:00.886] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
 [08Mar2025 00:41:08.281] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
 [08Mar2025 00:41:08.289] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[08Mar2025 00:41:41.464] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[08Mar2025 00:41:41.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 00:41:41.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 00:44:16.285] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[08Mar2025 00:44:59.531] [Worker-Main1/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main1 shutdown
+[08Mar2025 00:45:00.830] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main36
+[08Mar2025 00:46:20.730] [Worker-Main36/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main36 shutdown
+[08Mar2025 00:46:41.451] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[08Mar2025 00:46:41.451] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[08Mar2025 00:46:41.452] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[08Mar2025 00:46:41.457] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[08Mar2025 00:46:41.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Mar2025 00:46:41.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Mar2025 00:47:01.930] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main41
+[08Mar2025 00:48:37.080] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[08Mar2025 00:48:37.081] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
