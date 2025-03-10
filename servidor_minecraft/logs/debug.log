@@ -8262,3 +8262,23 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [10Mar2025 04:23:22.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Mar2025 04:23:22.841] [IO-Worker-288/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-291
 [10Mar2025 04:23:22.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 04:23:42.169] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main292
+[10Mar2025 04:24:25.219] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-293
+[10Mar2025 04:24:25.219] [IO-Worker-293/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-294
+[10Mar2025 04:24:42.170] [Worker-Main292/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main292 shutdown
+[10Mar2025 04:27:55.219] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main295
+[10Mar2025 04:28:22.830] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-296
+[10Mar2025 04:28:22.830] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-297
+[10Mar2025 04:28:22.831] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-298
+[10Mar2025 04:28:22.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 04:28:22.840] [IO-Worker-296/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-299
+[10Mar2025 04:28:22.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 04:28:55.220] [Worker-Main295/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main295 shutdown
+[10Mar2025 04:33:05.019] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-300
+[10Mar2025 04:33:05.019] [IO-Worker-300/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-301
+[10Mar2025 04:33:22.830] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-302
+[10Mar2025 04:33:22.834] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-303
+[10Mar2025 04:33:22.834] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-304
+[10Mar2025 04:33:22.834] [IO-Worker-301/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-305
+[10Mar2025 04:33:22.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 04:33:22.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
