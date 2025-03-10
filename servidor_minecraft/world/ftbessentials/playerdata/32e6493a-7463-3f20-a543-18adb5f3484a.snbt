@@ -4,7 +4,7 @@
 	god: false
 	nick: ""
 	name: "DarlingXY07"
-	last_seen: { dim: "minecraft:overworld", x: 3, y: 103, z: 4, time: 1741392708059L, xRot: 16.34988f, yRot: -55.66284f }
+	last_seen: { dim: "minecraft:overworld", x: 1, y: 106, z: 8, time: 1741569208733L, xRot: 31.649931f, yRot: 14.241699f }
 	recording: 0
 	teleport_history: [
 		{ dim: "minecraft:overworld", x: -9, y: 103, z: 2, time: 1741387160785L, xRot: 19.200005f, yRot: 38.25048f }

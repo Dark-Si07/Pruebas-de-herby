@@ -1,10 +1,10 @@
-[00:11:30] [INFO ] Hello, World! (You will see this line every time server resources reload)
-[00:11:30] [INFO ] Loaded script server_scripts:script.js in 0.003 s
-[00:11:30] [INFO ] Loaded 1/1 KubeJS server scripts in 0.027 s
-[00:11:30] [INFO ] Scripts loaded
-[00:11:30] [INFO ] Scanning recipes...
-[00:11:35] [INFO ] Found 3050 recipes and 0 failed recipes in 290.2 ms
-[00:11:35] [INFO ] Posted recipe events in 758.4 μs
-[00:11:35] [INFO ] Modified & removed recipes in 54.51 ms
-[00:11:35] [INFO ] Added recipes in 944.1 μs
-[00:11:35] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
+[01:13:11] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[01:13:11] [INFO ] Loaded script server_scripts:script.js in 0.003 s
+[01:13:11] [INFO ] Loaded 1/1 KubeJS server scripts in 0.022 s
+[01:13:11] [INFO ] Scripts loaded
+[01:13:11] [INFO ] Scanning recipes...
+[01:13:16] [INFO ] Found 3050 recipes and 0 failed recipes in 247.2 ms
+[01:13:16] [INFO ] Posted recipe events in 1.551 ms
+[01:13:16] [INFO ] Modified & removed recipes in 81.08 ms
+[01:13:16] [INFO ] Added recipes in 508.8 μs
+[01:13:16] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
