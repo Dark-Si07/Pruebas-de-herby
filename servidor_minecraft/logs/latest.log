@@ -657,3 +657,17 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [10Mar2025 02:58:47.428] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
 [10Mar2025 02:58:47.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
 [10Mar2025 02:58:47.436] [RCON Client /127.0.0.1 #32/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:10:24.227] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:10:24.234] [RCON Client /127.0.0.1 #33/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:10:51.061] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:10:51.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
+[10Mar2025 03:10:51.070] [RCON Client /127.0.0.1 #34/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:10:53.520] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RedPandaEntity['el_weon_de_darlingxy_emon'/949, l='ServerLevel[world]', x=7.50, y=98.00, z=11.34] died: el_weon_de_darlingxy_emon blew up
+[10Mar2025 03:10:57.610] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:10:57.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:10:57.618] [RCON Client /127.0.0.1 #35/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:10:58.871] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RedPandaEntity['el_weon_de_darlingxy_emon'/1143, l='ServerLevel[world]', x=5.58, y=98.00, z=17.62] died: el_weon_de_darlingxy_emon fell from a high place
+[10Mar2025 03:11:02.820] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:11:02.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:11:02.828] [RCON Client /127.0.0.1 #36/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:11:04.120] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RedPandaEntity['el_weon_de_darlingxy_emon'/1144, l='ServerLevel[world]', x=5.58, y=98.00, z=17.62] died: el_weon_de_darlingxy_emon fell from a high place

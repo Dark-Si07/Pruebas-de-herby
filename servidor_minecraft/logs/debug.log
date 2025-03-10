@@ -7900,3 +7900,41 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [10Mar2025 03:01:19.020] [IO-Worker-158/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-159
 [10Mar2025 03:02:34.153] [Worker-Main155/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main155 shutdown
 [10Mar2025 03:02:46.574] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main160
+[10Mar2025 03:03:22.832] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-161
+[10Mar2025 03:03:22.832] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-162
+[10Mar2025 03:03:22.832] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-163
+[10Mar2025 03:03:22.839] [IO-Worker-162/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-164
+[10Mar2025 03:03:22.839] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-165
+[10Mar2025 03:03:22.839] [IO-Worker-162/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-166
+[10Mar2025 03:03:22.839] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-167
+[10Mar2025 03:03:22.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 03:03:22.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 03:05:49.472] [Worker-Main160/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main160 shutdown
+[10Mar2025 03:06:38.070] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main168
+[10Mar2025 03:08:17.971] [Worker-Main168/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main168 shutdown
+[10Mar2025 03:08:22.837] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-169
+[10Mar2025 03:08:22.838] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-170
+[10Mar2025 03:08:22.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 03:08:22.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 03:09:29.119] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main171
+[10Mar2025 03:10:24.227] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:10:24.234] [RCON Client /127.0.0.1 #33/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:10:29.120] [Worker-Main171/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main171 shutdown
+[10Mar2025 03:10:37.820] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-172
+[10Mar2025 03:10:37.821] [IO-Worker-172/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-173
+[10Mar2025 03:10:51.061] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:10:51.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
+[10Mar2025 03:10:51.070] [RCON Client /127.0.0.1 #34/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:10:53.520] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RedPandaEntity['el_weon_de_darlingxy_emon'/949, l='ServerLevel[world]', x=7.50, y=98.00, z=11.34] died: el_weon_de_darlingxy_emon blew up
+[10Mar2025 03:10:53.536] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main174
+[10Mar2025 03:10:57.610] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:10:57.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:10:57.618] [RCON Client /127.0.0.1 #35/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:10:58.871] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RedPandaEntity['el_weon_de_darlingxy_emon'/1143, l='ServerLevel[world]', x=5.58, y=98.00, z=17.62] died: el_weon_de_darlingxy_emon fell from a high place
+[10Mar2025 03:11:02.820] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:11:02.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:11:02.828] [RCON Client /127.0.0.1 #36/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:11:04.120] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RedPandaEntity['el_weon_de_darlingxy_emon'/1144, l='ServerLevel[world]', x=5.58, y=98.00, z=17.62] died: el_weon_de_darlingxy_emon fell from a high place
+[10Mar2025 03:11:57.219] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-175
+[10Mar2025 03:11:57.220] [IO-Worker-175/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-176
+[10Mar2025 03:12:30.270] [Worker-Main174/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main174 shutdown
