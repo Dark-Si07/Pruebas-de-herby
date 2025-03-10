@@ -956,3 +956,9 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [10Mar2025 04:51:04.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Gave 1    [The Watcher] to DarlingXY07]
 [10Mar2025 04:51:04.142] [RCON Client /127.0.0.1 #127/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
 [10Mar2025 04:53:35.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Set own game mode to Creative Mode]
+[10Mar2025 05:00:22.398] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 05:00:22.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Gave 1    [The Watcher] to DarlingXY07]
+[10Mar2025 05:00:22.406] [RCON Client /127.0.0.1 #128/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 05:03:43.635] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 05:03:43.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 05:03:43.644] [RCON Client /127.0.0.1 #129/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down

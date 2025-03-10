@@ -8459,3 +8459,30 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [10Mar2025 04:53:22.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Mar2025 04:53:22.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Mar2025 04:53:35.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Set own game mode to Creative Mode]
+[10Mar2025 04:57:46.919] [Worker-Main334/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main334 shutdown
+[10Mar2025 04:58:06.019] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-341
+[10Mar2025 04:58:06.020] [IO-Worker-341/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-342
+[10Mar2025 04:58:19.469] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main343
+[10Mar2025 04:58:22.831] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-344
+[10Mar2025 04:58:22.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 04:58:22.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 04:59:30.919] [Worker-Main343/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main343 shutdown
+[10Mar2025 04:59:34.619] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-345
+[10Mar2025 04:59:34.620] [IO-Worker-345/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-346
+[10Mar2025 05:00:22.398] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 05:00:22.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Gave 1    [The Watcher] to DarlingXY07]
+[10Mar2025 05:00:22.406] [RCON Client /127.0.0.1 #128/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 05:01:28.818] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-347
+[10Mar2025 05:01:28.819] [IO-Worker-347/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-348
+[10Mar2025 05:02:25.720] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main349
+[10Mar2025 05:03:22.830] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-350
+[10Mar2025 05:03:22.831] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-351
+[10Mar2025 05:03:22.831] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-352
+[10Mar2025 05:03:22.834] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-354
+[10Mar2025 05:03:22.834] [IO-Worker-352/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-353
+[10Mar2025 05:03:22.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 05:03:22.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 05:03:25.720] [Worker-Main349/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main349 shutdown
+[10Mar2025 05:03:43.635] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 05:03:43.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 05:03:43.644] [RCON Client /127.0.0.1 #129/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
