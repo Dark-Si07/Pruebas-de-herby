@@ -8137,3 +8137,58 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [10Mar2025 03:43:22.839] [IO-Worker-229/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-233
 [10Mar2025 03:43:22.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Mar2025 03:43:22.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 03:44:07.518] [Worker-Main226/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main226 shutdown
+[10Mar2025 03:44:42.969] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main234
+[10Mar2025 03:45:13.819] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-235
+[10Mar2025 03:45:13.820] [IO-Worker-235/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-236
+[10Mar2025 03:45:39.224] [IO-Worker-235/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-237
+[10Mar2025 03:45:42.970] [Worker-Main234/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main234 shutdown
+[10Mar2025 03:46:03.029] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:46:03.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:46:03.038] [RCON Client /127.0.0.1 #70/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:46:53.020] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main238
+[10Mar2025 03:47:53.021] [Worker-Main238/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main238 shutdown
+[10Mar2025 03:48:22.831] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-239
+[10Mar2025 03:48:22.831] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-240
+[10Mar2025 03:48:22.832] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-241
+[10Mar2025 03:48:22.832] [IO-Worker-239/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-242
+[10Mar2025 03:48:22.833] [IO-Worker-239/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-243
+[10Mar2025 03:48:22.837] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-244
+[10Mar2025 03:48:22.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 03:48:22.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 03:48:56.538] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RedPandaEntity['herbyk_emon'/543, l='ServerLevel[world]', x=22.19, y=103.00, z=-23.06] died: herbyk_emon fell out of the world
+[10Mar2025 03:48:56.543] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RedPandaEntity['el_weon_de_darlingxy_emon'/864, l='ServerLevel[world]', x=-22.28, y=91.00, z=56.93] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.544] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RedPandaEntity['el_weon_de_darlingxy_emon'/865, l='ServerLevel[world]', x=-16.39, y=92.00, z=62.18] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.545] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RedPandaEntity['el_weon_de_darlingxy_emon'/904, l='ServerLevel[world]', x=-36.32, y=95.00, z=24.95] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.546] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RedPandaEntity['el_weon_de_darlingxy_emon'/906, l='ServerLevel[world]', x=9.65, y=97.00, z=3.32] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.547] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RedPandaEntity['el_weon_de_darlingxy_emon'/925, l='ServerLevel[world]', x=-18.68, y=100.00, z=9.52] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.559] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SporelingEntity['el_weon_de_darlingxy_emon'/1243, l='ServerLevel[world]', x=-1.50, y=100.00, z=15.37] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SporelingEntity['el_weon_de_darlingxy_emon'/1244, l='ServerLevel[world]', x=-7.18, y=103.00, z=-0.21] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.561] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity LizardEntity['el_weon_de_darlingxy_emon'/1245, l='ServerLevel[world]', x=-22.26, y=93.00, z=-11.74] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.562] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity LizardEntity['el_weon_de_darlingxy_emon'/1246, l='ServerLevel[world]', x=-12.86, y=101.00, z=12.60] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.562] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity LizardEntity['el_weon_de_darlingxy_emon'/1247, l='ServerLevel[world]', x=-17.84, y=99.00, z=24.15] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.563] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity LizardEntity['el_weon_de_darlingxy_emon'/1248, l='ServerLevel[world]', x=19.11, y=96.00, z=33.46] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.564] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MinipadEntity['el_weon_de_darlingxy_emon'/1249, l='ServerLevel[world]', x=-19.80, y=97.00, z=51.44] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.564] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SporelingEntity['el_weon_de_darlingxy_emon'/1250, l='ServerLevel[world]', x=-5.47, y=102.00, z=7.47] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.566] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SporelingEntity['el_weon_de_darlingxy_emon'/1255, l='ServerLevel[world]', x=8.54, y=95.00, z=45.15] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.568] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SporelingEntity['el_weon_de_darlingxy_emon'/1267, l='ServerLevel[world]', x=15.66, y=95.00, z=37.53] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.570] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MinipadEntity['el_weon_de_darlingxy_emon'/1268, l='ServerLevel[world]', x=14.49, y=101.00, z=22.30] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.571] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SporelingEntity['el_weon_de_darlingxy_emon'/1269, l='ServerLevel[world]', x=-9.80, y=98.00, z=51.31] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.573] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity LizardEntity['el_weon_de_darlingxy_emon'/1270, l='ServerLevel[world]', x=-32.80, y=96.00, z=22.98] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.574] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SporelingEntity['el_weon_de_darlingxy_emon'/1271, l='ServerLevel[world]', x=17.42, y=96.00, z=32.17] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.575] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MinipadEntity['el_weon_de_darlingxy_emon'/1272, l='ServerLevel[world]', x=-20.51, y=89.00, z=-17.67] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.576] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity LittleGrebeEntity['el_weon_de_darlingxy_emon'/1273, l='ServerLevel[world]', x=-38.25, y=91.00, z=0.25] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.577] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SporelingEntity['el_weon_de_darlingxy_emon'/1274, l='ServerLevel[world]', x=28.53, y=101.42, z=8.30] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.578] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SporelingEntity['el_weon_de_darlingxy_emon'/1281, l='ServerLevel[world]', x=-25.98, y=98.00, z=29.19] died: el_weon_de_darlingxy_emon fell out of the world
+[10Mar2025 03:48:56.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Killed 299 entities]
+[10Mar2025 03:49:03.893] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main245
+[10Mar2025 03:49:56.020] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-246
+[10Mar2025 03:49:56.021] [IO-Worker-246/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-247
+[10Mar2025 03:51:35.119] [Worker-Main245/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main245 shutdown
+[10Mar2025 03:51:52.068] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main248
+[10Mar2025 03:52:52.070] [Worker-Main248/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main248 shutdown
+[10Mar2025 03:53:22.846] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-249
+[10Mar2025 03:53:22.846] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-250
+[10Mar2025 03:53:22.847] [IO-Worker-246/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-251
+[10Mar2025 03:53:22.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 03:53:22.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
