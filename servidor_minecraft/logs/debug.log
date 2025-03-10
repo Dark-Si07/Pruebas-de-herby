@@ -7695,3 +7695,39 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [10Mar2025 01:42:25.719] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main49
 [10Mar2025 01:42:33.620] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
 [10Mar2025 01:42:33.621] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[10Mar2025 01:43:22.865] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[10Mar2025 01:43:22.866] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[10Mar2025 01:43:22.867] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[10Mar2025 01:43:22.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 01:43:22.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 01:44:46.259] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 01:44:46.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
+[10Mar2025 01:44:46.268] [RCON Client /127.0.0.1 #18/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 01:45:48.732] [Worker-Main49/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main49 shutdown
+[10Mar2025 01:46:04.469] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main55
+[10Mar2025 01:46:14.564] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 01:46:14.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Primed TNT]
+[10Mar2025 01:46:14.575] [RCON Client /127.0.0.1 #19/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 01:46:39.222] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[10Mar2025 01:47:17.271] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 01:47:17.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Red Panda]
+[10Mar2025 01:47:17.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] el_weon_de_darlingxy_emon ha spawneado un gato desde Twitch!
+[10Mar2025 01:47:17.289] [RCON Client /127.0.0.1 #20/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 01:47:29.528] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 01:47:29.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Red Panda]
+[10Mar2025 01:47:29.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon] el_weon_de_darlingxy_emon ha spawneado un gato desde Twitch!
+[10Mar2025 01:47:29.543] [RCON Client /127.0.0.1 #21/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 01:48:22.841] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[10Mar2025 01:48:22.841] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[10Mar2025 01:48:22.842] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[10Mar2025 01:48:22.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 01:48:22.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 01:50:09.521] [Worker-Main55/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main55 shutdown
+[10Mar2025 01:51:24.621] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main60
+[10Mar2025 01:52:36.624] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[10Mar2025 01:52:36.844] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 01:52:36.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 01:52:36.853] [RCON Client /127.0.0.1 #22/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 01:52:41.146] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 01:52:41.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 01:52:41.156] [RCON Client /127.0.0.1 #23/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
