@@ -858,3 +858,101 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [10Mar2025 04:42:49.372] [RCON Client /127.0.0.1 #85/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
 [10Mar2025 04:42:50.389] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
 [10Mar2025 04:42:50.397] [RCON Client /127.0.0.1 #86/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:43:52.727] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:43:52.734] [RCON Client /127.0.0.1 #87/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:43:54.139] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:43:54.146] [RCON Client /127.0.0.1 #88/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:43:54.867] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:43:54.875] [RCON Client /127.0.0.1 #89/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:43:55.309] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:43:55.316] [RCON Client /127.0.0.1 #90/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:43:55.627] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:43:55.635] [RCON Client /127.0.0.1 #91/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:43:55.896] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:43:55.903] [RCON Client /127.0.0.1 #92/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:43:56.143] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:43:56.151] [RCON Client /127.0.0.1 #93/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:43:56.357] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:43:56.364] [RCON Client /127.0.0.1 #94/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:43:56.624] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:43:56.631] [RCON Client /127.0.0.1 #95/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:43:59.361] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:43:59.368] [RCON Client /127.0.0.1 #96/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:43:59.555] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:43:59.562] [RCON Client /127.0.0.1 #97/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:43:59.719] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:43:59.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Gave 1    [Storm's Edge] to DarlingXY07]
+[10Mar2025 04:43:59.728] [RCON Client /127.0.0.1 #98/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:43:59.899] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:43:59.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Gave 1    [Storm's Edge] to DarlingXY07]
+[10Mar2025 04:43:59.907] [RCON Client /127.0.0.1 #99/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:44:00.064] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:44:00.072] [RCON Client /127.0.0.1 #100/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:44:00.227] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:44:00.234] [RCON Client /127.0.0.1 #101/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:44:00.381] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:44:00.388] [RCON Client /127.0.0.1 #102/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:44:00.995] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:44:01.002] [RCON Client /127.0.0.1 #103/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:44:01.164] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:44:01.173] [RCON Client /127.0.0.1 #104/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:44:01.345] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:44:01.353] [RCON Client /127.0.0.1 #105/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:44:01.539] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:44:01.546] [RCON Client /127.0.0.1 #106/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:44:01.697] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:44:01.704] [RCON Client /127.0.0.1 #107/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:44:01.865] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:44:01.875] [RCON Client /127.0.0.1 #108/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:44:02.063] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:44:02.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Gave 1    [Storm's Edge] to DarlingXY07]
+[10Mar2025 04:44:02.074] [RCON Client /127.0.0.1 #109/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:44:02.214] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:44:02.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Gave 1    [Storm's Edge] to DarlingXY07]
+[10Mar2025 04:44:02.225] [RCON Client /127.0.0.1 #110/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:44:02.411] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:44:02.419] [RCON Client /127.0.0.1 #111/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:44:02.583] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:44:02.591] [RCON Client /127.0.0.1 #112/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:44:02.758] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:44:02.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Gave 1    [Storm's Edge] to DarlingXY07]
+[10Mar2025 04:44:02.767] [RCON Client /127.0.0.1 #113/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:44:02.946] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:44:02.953] [RCON Client /127.0.0.1 #114/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:49:07.690] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:49:07.697] [RCON Client /127.0.0.1 #115/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:49:08.310] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:49:08.318] [RCON Client /127.0.0.1 #116/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:49:09.157] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:49:09.164] [RCON Client /127.0.0.1 #117/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:49:09.913] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:49:09.922] [RCON Client /127.0.0.1 #118/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:50:17.695] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:50:17.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Gave 1    [Storm's Edge] to DarlingXY07]
+[10Mar2025 04:50:17.703] [RCON Client /127.0.0.1 #119/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:50:18.906] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:50:18.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Gave 1    [Molten Edge] to DarlingXY07]
+[10Mar2025 04:50:18.914] [RCON Client /127.0.0.1 #120/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:50:19.784] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:50:19.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarlingXY07 has made the advancement [Always Watching]
+[10Mar2025 04:50:19.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Gave 1    [The Watcher] to DarlingXY07]
+[10Mar2025 04:50:19.794] [RCON Client /127.0.0.1 #121/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:50:20.673] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:50:20.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Gave 1    [The Watcher] to DarlingXY07]
+[10Mar2025 04:50:20.681] [RCON Client /127.0.0.1 #122/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:50:21.613] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:50:21.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Gave 1    [The Watcher] to DarlingXY07]
+[10Mar2025 04:50:21.624] [RCON Client /127.0.0.1 #123/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:50:22.450] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:50:22.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Gave 1    [Iron Twinblade] to DarlingXY07]
+[10Mar2025 04:50:22.458] [RCON Client /127.0.0.1 #124/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:50:23.137] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:50:23.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Gave 1    [Storm's Edge] to DarlingXY07]
+[10Mar2025 04:50:23.145] [RCON Client /127.0.0.1 #125/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:50:23.773] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:50:23.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Gave 1    [Storm's Edge] to DarlingXY07]
+[10Mar2025 04:50:23.781] [RCON Client /127.0.0.1 #126/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:51:04.134] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:51:04.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Gave 1    [The Watcher] to DarlingXY07]
+[10Mar2025 04:51:04.142] [RCON Client /127.0.0.1 #127/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:53:35.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Set own game mode to Creative Mode]

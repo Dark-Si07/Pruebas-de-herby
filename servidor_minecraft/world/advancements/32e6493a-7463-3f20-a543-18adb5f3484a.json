@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "simplyswords:the_watcher": {
+    "criteria": {
+      "requirement": "2025-03-10 04:50:19 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-03-07 22:29:38 +0000"
