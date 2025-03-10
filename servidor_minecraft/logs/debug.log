@@ -8282,3 +8282,57 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [10Mar2025 04:33:22.834] [IO-Worker-301/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-305
 [10Mar2025 04:33:22.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Mar2025 04:33:22.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 04:35:58.918] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main306
+[10Mar2025 04:36:58.919] [Worker-Main306/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main306 shutdown
+[10Mar2025 04:37:32.552] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:37:32.560] [RCON Client /127.0.0.1 #75/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:38:06.419] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main307
+[10Mar2025 04:38:22.831] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-308
+[10Mar2025 04:38:22.831] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-309
+[10Mar2025 04:38:22.831] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-310
+[10Mar2025 04:38:22.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 04:38:22.839] [IO-Worker-308/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-311
+[10Mar2025 04:38:22.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 04:39:06.420] [Worker-Main307/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main307 shutdown
+[10Mar2025 04:39:12.437] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:39:12.444] [RCON Client /127.0.0.1 #76/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:39:26.574] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main312
+[10Mar2025 04:39:26.658] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-313
+[10Mar2025 04:39:26.662] [IO-Worker-313/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-314
+[10Mar2025 04:39:29.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Set own game mode to Adventure Mode]
+[10Mar2025 04:40:47.054] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:40:47.062] [RCON Client /127.0.0.1 #77/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:41:15.385] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:41:15.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Gave 1    [Storm's Edge] to DarlingXY07]
+[10Mar2025 04:41:15.393] [RCON Client /127.0.0.1 #78/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:41:20.218] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-315
+[10Mar2025 04:41:20.219] [IO-Worker-315/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-316
+[10Mar2025 04:41:26.668] [Worker-Main312/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main312 shutdown
+[10Mar2025 04:41:46.769] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main317
+[10Mar2025 04:42:30.878] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:42:30.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Gave 1    [Storm's Edge] to DarlingXY07]
+[10Mar2025 04:42:30.886] [RCON Client /127.0.0.1 #79/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:42:35.314] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:42:35.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Gave 1    [Storm's Edge] to DarlingXY07]
+[10Mar2025 04:42:35.323] [RCON Client /127.0.0.1 #80/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:42:37.195] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:42:37.203] [RCON Client /127.0.0.1 #81/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:42:46.120] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:42:46.127] [RCON Client /127.0.0.1 #82/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:42:47.186] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:42:47.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Gave 1    [Storm's Edge] to DarlingXY07]
+[10Mar2025 04:42:47.194] [RCON Client /127.0.0.1 #83/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:42:48.279] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:42:48.286] [RCON Client /127.0.0.1 #84/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:42:49.363] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:42:49.372] [RCON Client /127.0.0.1 #85/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:42:50.389] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:42:50.397] [RCON Client /127.0.0.1 #86/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:43:22.830] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-318
+[10Mar2025 04:43:22.830] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-319
+[10Mar2025 04:43:22.830] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-320
+[10Mar2025 04:43:22.834] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-321
+[10Mar2025 04:43:22.834] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-322
+[10Mar2025 04:43:22.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 04:43:22.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 04:43:34.620] [Worker-Main317/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main317 shutdown
