@@ -674,3 +674,7 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [10Mar2025 03:13:29.369] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
 [10Mar2025 03:22:13.619] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
 [10Mar2025 03:22:13.628] [RCON Client /127.0.0.1 #37/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:23:55.460] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:23:55.468] [RCON Client /127.0.0.1 #38/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:24:23.772] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:24:23.776] [RCON Client /127.0.0.1 #39/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
