@@ -8192,3 +8192,36 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [10Mar2025 03:53:22.847] [IO-Worker-246/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-251
 [10Mar2025 03:53:22.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Mar2025 03:53:22.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 03:54:31.218] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-252
+[10Mar2025 03:54:31.219] [IO-Worker-252/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-253
+[10Mar2025 03:56:00.020] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-254
+[10Mar2025 03:56:00.020] [IO-Worker-254/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-255
+[10Mar2025 03:56:27.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarlingXY07 has made the advancement [Not Too Hot to Handle]
+[10Mar2025 03:56:28.470] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main256
+[10Mar2025 03:57:28.471] [Worker-Main256/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main256 shutdown
+[10Mar2025 03:57:47.678] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:57:47.686] [RCON Client /127.0.0.1 #71/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:58:18.608] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
+[10Mar2025 03:58:18.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarlingXY07 has made the advancement [Lightning Strikes Twice]
+[10Mar2025 03:58:18.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Gave 1    [Storm's Edge] to DarlingXY07]
+[10Mar2025 03:58:22.834] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-257
+[10Mar2025 03:58:22.834] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-258
+[10Mar2025 03:58:22.835] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-259
+[10Mar2025 03:58:22.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 03:58:22.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 03:58:22.852] [IO-Worker-257/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-260
+[10Mar2025 03:58:49.819] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main261
+[10Mar2025 03:59:49.820] [Worker-Main261/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main261 shutdown
+[10Mar2025 04:00:08.364] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:00:08.372] [RCON Client /127.0.0.1 #72/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:01:02.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Gave 1    [Iron Twinblade] to DarlingXY07]
+[10Mar2025 04:01:35.018] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-262
+[10Mar2025 04:01:35.019] [IO-Worker-262/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-263
+[10Mar2025 04:03:21.420] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main264
+[10Mar2025 04:03:22.830] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-265
+[10Mar2025 04:03:22.831] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-266
+[10Mar2025 04:03:22.832] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-267
+[10Mar2025 04:03:22.839] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-268
+[10Mar2025 04:03:22.839] [IO-Worker-265/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-269
+[10Mar2025 04:03:22.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 04:03:22.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

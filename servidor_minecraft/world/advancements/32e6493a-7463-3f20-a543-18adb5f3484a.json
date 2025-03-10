@@ -143,9 +143,21 @@
     },
     "done": true
   },
+  "simplyswords:molten_edge": {
+    "criteria": {
+      "requirement": "2025-03-10 03:56:27 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-03-07 22:29:38 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:storms_edge": {
+    "criteria": {
+      "requirement": "2025-03-10 03:58:18 +0000"
     },
     "done": true
   },

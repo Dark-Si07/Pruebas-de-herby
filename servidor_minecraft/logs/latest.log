@@ -817,3 +817,11 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [10Mar2025 03:48:56.577] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SporelingEntity['el_weon_de_darlingxy_emon'/1274, l='ServerLevel[world]', x=28.53, y=101.42, z=8.30] died: el_weon_de_darlingxy_emon fell out of the world
 [10Mar2025 03:48:56.578] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SporelingEntity['el_weon_de_darlingxy_emon'/1281, l='ServerLevel[world]', x=-25.98, y=98.00, z=29.19] died: el_weon_de_darlingxy_emon fell out of the world
 [10Mar2025 03:48:56.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Killed 299 entities]
+[10Mar2025 03:56:27.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarlingXY07 has made the advancement [Not Too Hot to Handle]
+[10Mar2025 03:57:47.678] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:57:47.686] [RCON Client /127.0.0.1 #71/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:58:18.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DarlingXY07 has made the advancement [Lightning Strikes Twice]
+[10Mar2025 03:58:18.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Gave 1    [Storm's Edge] to DarlingXY07]
+[10Mar2025 04:00:08.364] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 04:00:08.372] [RCON Client /127.0.0.1 #72/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 04:01:02.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Gave 1    [Iron Twinblade] to DarlingXY07]
