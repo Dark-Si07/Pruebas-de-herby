@@ -7938,3 +7938,31 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [10Mar2025 03:11:57.219] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-175
 [10Mar2025 03:11:57.220] [IO-Worker-175/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-176
 [10Mar2025 03:12:30.270] [Worker-Main174/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main174 shutdown
+[10Mar2025 03:13:22.834] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-177
+[10Mar2025 03:13:22.834] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-178
+[10Mar2025 03:13:22.834] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-179
+[10Mar2025 03:13:22.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 03:13:22.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 03:13:29.369] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[10Mar2025 03:14:42.220] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-180
+[10Mar2025 03:14:42.220] [IO-Worker-180/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-181
+[10Mar2025 03:16:14.019] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-182
+[10Mar2025 03:16:14.020] [IO-Worker-182/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-183
+[10Mar2025 03:17:12.119] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main184
+[10Mar2025 03:18:12.120] [Worker-Main184/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main184 shutdown
+[10Mar2025 03:18:22.831] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-185
+[10Mar2025 03:18:22.831] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-186
+[10Mar2025 03:18:22.832] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-187
+[10Mar2025 03:18:22.839] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-189
+[10Mar2025 03:18:22.840] [IO-Worker-185/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-188
+[10Mar2025 03:18:22.842] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-190
+[10Mar2025 03:18:22.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 03:18:22.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 03:18:52.920] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main191
+[10Mar2025 03:19:52.921] [Worker-Main191/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main191 shutdown
+[10Mar2025 03:21:26.419] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-192
+[10Mar2025 03:21:26.420] [IO-Worker-192/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-193
+[10Mar2025 03:22:13.619] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:22:13.628] [RCON Client /127.0.0.1 #37/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:22:15.670] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main194
+[10Mar2025 03:23:15.670] [Worker-Main194/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main194 shutdown
