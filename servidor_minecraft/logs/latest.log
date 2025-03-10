@@ -678,3 +678,114 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [10Mar2025 03:23:55.468] [RCON Client /127.0.0.1 #38/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
 [10Mar2025 03:24:23.772] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
 [10Mar2025 03:24:23.776] [RCON Client /127.0.0.1 #39/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:33:43.826] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:33:43.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:33:43.836] [RCON Client /127.0.0.1 #40/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:33:45.120] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cow['el_weon_de_darlingxy_emon'/1167, l='ServerLevel[world]', x=5.58, y=98.00, z=17.62] died: el_weon_de_darlingxy_emon fell from a high place
+[10Mar2025 03:34:09.068] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:34:09.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:34:09.079] [RCON Client /127.0.0.1 #41/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:34:09.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:34:09.939] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:34:09.948] [RCON Client /127.0.0.1 #42/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:34:10.755] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:34:10.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:34:10.764] [RCON Client /127.0.0.1 #43/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:34:11.089] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:34:11.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:34:11.098] [RCON Client /127.0.0.1 #44/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:34:11.307] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:34:11.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:34:11.317] [RCON Client /127.0.0.1 #45/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:34:11.532] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:34:11.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:34:11.540] [RCON Client /127.0.0.1 #46/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:34:11.799] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:34:11.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:34:11.807] [RCON Client /127.0.0.1 #47/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:34:11.819] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['el_weon_de_darlingxy_emon'/1170, l='ServerLevel[world]', x=2.63, y=100.00, z=20.77] died: el_weon_de_darlingxy_emon hit the ground too hard whilst trying to escape el_weon_de_darlingxy_emon
+[10Mar2025 03:34:12.002] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:34:12.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:34:12.011] [RCON Client /127.0.0.1 #48/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:34:14.371] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['el_weon_de_darlingxy_emon'/1176, l='ServerLevel[world]', x=1.45, y=100.42, z=17.65] died: el_weon_de_darlingxy_emon was slain by el_weon_de_darlingxy_emon
+[10Mar2025 03:34:16.658] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['el_weon_de_darlingxy_emon'/1173, l='ServerLevel[world]', x=3.45, y=101.00, z=22.17] died: el_weon_de_darlingxy_emon was slain by DarlingXY07
+[10Mar2025 03:34:18.173] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['el_weon_de_darlingxy_emon'/1179, l='ServerLevel[world]', x=-9.45, y=101.00, z=28.77] died: el_weon_de_darlingxy_emon was slain by el_weon_de_darlingxy_emon
+[10Mar2025 03:34:21.321] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['el_weon_de_darlingxy_emon'/1172, l='ServerLevel[world]', x=-10.97, y=102.25, z=32.80] died: el_weon_de_darlingxy_emon was slain by el_weon_de_darlingxy_emon
+[10Mar2025 03:34:23.257] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['el_weon_de_darlingxy_emon'/1174, l='ServerLevel[world]', x=-10.46, y=101.00, z=32.19] died: el_weon_de_darlingxy_emon was slain by DarlingXY07
+[10Mar2025 03:34:27.556] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['el_weon_de_darlingxy_emon'/1171, l='ServerLevel[world]', x=2.30, y=101.00, z=22.40] died: el_weon_de_darlingxy_emon was slain by DarlingXY07
+[10Mar2025 03:34:29.706] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['el_weon_de_darlingxy_emon'/1175, l='ServerLevel[world]', x=1.41, y=100.00, z=18.62] died: el_weon_de_darlingxy_emon was slain by DarlingXY07
+[10Mar2025 03:34:36.281] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:34:36.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:34:36.290] [RCON Client /127.0.0.1 #49/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:34:36.804] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:34:36.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:34:36.813] [RCON Client /127.0.0.1 #50/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:34:37.112] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:34:37.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:34:37.124] [RCON Client /127.0.0.1 #51/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:34:37.313] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:34:37.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:34:37.325] [RCON Client /127.0.0.1 #52/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:34:39.171] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Sheep['el_weon_de_darlingxy_emon'/1198, l='ServerLevel[world]', x=-2.75, y=100.23, z=18.23] died: el_weon_de_darlingxy_emon was slain by el_weon_de_darlingxy_emon
+[10Mar2025 03:34:39.556] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cow['el_weon_de_darlingxy_emon'/1195, l='ServerLevel[world]', x=-3.69, y=99.00, z=16.26] died: el_weon_de_darlingxy_emon was slain by DarlingXY07
+[10Mar2025 03:34:41.306] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cow['el_weon_de_darlingxy_emon'/1197, l='ServerLevel[world]', x=-2.45, y=99.42, z=15.57] died: el_weon_de_darlingxy_emon was slain by DarlingXY07
+[10Mar2025 03:34:43.056] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['el_weon_de_darlingxy_emon'/1196, l='ServerLevel[world]', x=-6.35, y=98.00, z=19.51] died: el_weon_de_darlingxy_emon was slain by DarlingXY07
+[10Mar2025 03:36:24.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Set own game mode to Survival Mode]
+[10Mar2025 03:36:27.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Set own game mode to Creative Mode]
+[10Mar2025 03:36:56.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Set own game mode to Adventure Mode]
+[10Mar2025 03:37:21.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Set own game mode to Creative Mode]
+[10Mar2025 03:39:47.333] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:39:47.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:39:47.342] [RCON Client /127.0.0.1 #53/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:39:52.202] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:39:52.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:39:52.210] [RCON Client /127.0.0.1 #54/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:39:58.289] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:39:58.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:39:58.298] [RCON Client /127.0.0.1 #55/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:39:59.417] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:39:59.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:39:59.428] [RCON Client /127.0.0.1 #56/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:40:00.264] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:40:00.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:40:00.274] [RCON Client /127.0.0.1 #57/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:40:01.038] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:40:01.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:40:01.047] [RCON Client /127.0.0.1 #58/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:40:01.644] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:40:01.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:40:01.653] [RCON Client /127.0.0.1 #59/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:40:02.366] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:40:02.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:40:02.380] [RCON Client /127.0.0.1 #60/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:40:28.809] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:40:28.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:40:28.818] [RCON Client /127.0.0.1 #61/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:41:32.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Lilytad]
+[10Mar2025 03:41:45.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new entity.cnb.thrown_cactem_spear]
+[10Mar2025 03:41:57.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new entity.cnb.lizard_egg]
+[10Mar2025 03:42:06.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new Little Grebe]
+[10Mar2025 03:42:37.097] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:42:37.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:42:37.106] [RCON Client /127.0.0.1 #62/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:42:57.183] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:42:57.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:42:57.191] [RCON Client /127.0.0.1 #63/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:42:58.760] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:42:58.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:42:58.769] [RCON Client /127.0.0.1 #64/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:42:59.592] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:42:59.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:42:59.600] [RCON Client /127.0.0.1 #65/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:43:00.379] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:43:00.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:43:00.387] [RCON Client /127.0.0.1 #66/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:43:01.296] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:43:01.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:43:01.304] [RCON Client /127.0.0.1 #67/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:43:02.203] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:43:02.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:43:02.212] [RCON Client /127.0.0.1 #68/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
+[10Mar2025 03:43:03.141] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /127.0.0.1 started
+[10Mar2025 03:43:03.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [DarlingXY07: Summoned new el_weon_de_darlingxy_emon]
+[10Mar2025 03:43:03.149] [RCON Client /127.0.0.1 #69/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /127.0.0.1 shutting down
